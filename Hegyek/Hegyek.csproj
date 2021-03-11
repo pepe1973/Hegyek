@@ -43,7 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Feladatok\HarmadikFeladat.cs" />
+    <Compile Include="Feladatok\HatodikFeladat.cs" />
+    <Compile Include="Feladatok\NegyedikFeladat.cs" />
+    <Compile Include="Feladatok\OtodikFeladat.cs" />
     <Compile Include="FileKezeles\FileBeolvas.cs" />
+    <Compile Include="Objektumok\Hegy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
