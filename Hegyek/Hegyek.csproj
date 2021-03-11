@@ -45,9 +45,14 @@
   <ItemGroup>
     <Compile Include="Feladatok\HarmadikFeladat.cs" />
     <Compile Include="Feladatok\HatodikFeladat.cs" />
+    <Compile Include="Feladatok\HetedikFeladat.cs" />
+    <Compile Include="Feladatok\KilencedikFeladat.cs" />
+    <Compile Include="Feladatok\Megoldas.cs" />
     <Compile Include="Feladatok\NegyedikFeladat.cs" />
+    <Compile Include="Feladatok\NyolcadikFeladat.cs" />
     <Compile Include="Feladatok\OtodikFeladat.cs" />
     <Compile Include="FileKezeles\FileBeolvas.cs" />
+    <Compile Include="FileKezeles\FileKiiras.cs" />
     <Compile Include="Objektumok\Hegy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
